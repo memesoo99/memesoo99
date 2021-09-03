@@ -1,5 +1,5 @@
 ## Hi there, I'm Jisoo Kim 👋
-#### 🌱 I’m currently interested in CV, DeelLearning</h4>
+#### 🌱 I’m currently interested in CV, DeepLearning</h4>
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
