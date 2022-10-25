@@ -1,13 +1,7 @@
 ## Hi there, I'm Jisoo Kim 👋
-#### 🌱 I’m currently interested in CV, DeepLearning</h4>
+#### I’m currently interested in Deep Learning, especially Multi-modal Learning and Generative Models.</h4>
 <br>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-</p>
+If you want to know more, visit my bio<a href="https://memesoo99.github.io/">. 🌱
 
 <br>
 <h3 align="center">📫 Contact 📫</h3>
