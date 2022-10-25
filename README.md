@@ -1,7 +1,7 @@
 ## Hi there, I'm Jisoo Kim 👋
 #### I’m currently interested in Deep Learning, especially Multi-modal Learning and Generative Models.</h4>
 <br>
-If you want to know more, visit my bio<a href="https://memesoo99.github.io/">. 🌱
+If you want to know more, visit my <a href="https://memesoo99.github.io/">bio</a>. 🌱
 
 <br>
 <h3 align="center">📫 Contact 📫</h3>
